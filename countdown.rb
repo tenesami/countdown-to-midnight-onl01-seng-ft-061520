@@ -10,4 +10,3 @@ def countdown(n)
   return "HAPPY NEW YEAR!"
   #countdown_with_sleep(5.seconds)
 end
-def 
