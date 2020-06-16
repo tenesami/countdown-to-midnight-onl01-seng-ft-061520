@@ -11,5 +11,5 @@ def countdown(n)
 end
 
 def countdown_with_sleep(sec)
-  sleep(sec);
+  return sleep(sec);
 end
